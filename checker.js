@@ -3,7 +3,7 @@
 function setUser(user) {
     $('#name').val('First');
     $('#lastName').val('Last');
-    $('#email').val('email@email.com');
+    $('#email').val('email123@emailabc.com');
     $('#password').val('cowboy123');
     $('#displayName').val(user);
     $('#termsAgree').prop('checked', true);
